@@ -1,0 +1,1 @@
+console.log("Error! Access was denied to servers due to unauthorized token. We request you to contact admins to server access.");
